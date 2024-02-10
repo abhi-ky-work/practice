@@ -1,40 +1,34 @@
 /**
+ * 31. Next Permutation
+ * https://leetcode.com/problems/next-permutation/
  * @param {number[][]} matrix
  * @return {number[]}
  */
- var spiralOrder = function(matrix) {
-    let res = []
-    let left = 0
-    let right = matrix[0].length 
-    let top  = 0
-    let bottom =  matrix.length
-    // console.log( left, right, top, bottom)
-    while( left < right && top < bottom){
-        // left to right top most row
-        for(let i = left ; i < right ; i++){
-            res.push(matrix[top][i])
-        }
-        top++
-        // top to bottom on right most col
-        for(let i = top ; i < bottom ; i++ ){
-            res.push(matrix[i][right -1])
-        }
-        right--
-        // if we just finished single row or col
-        if( ! ( left < right && top < bottom)){
-            break
-        }
-        // right to left on bottom most row
-        for( let i = right -1 ; i >= left ; i--){
-            res.push(matrix[bottom -1][i])
-        }
-        bottom--
-        // bottom to top on left most
-        for(let i = bottom -1 ; i >= top ; i--){
-            res.push(matrix[i][left])
-        }
-        left++
-        // console.log(top, right, bottom, left)
+ 
+ // [1,2,6,5,4]
+var nextPermutation = function(nums) {
+
+    let i = nums.length -2
+    while(i >= 0 && nums[i+1] <= nums[i]){
+        i--
     }
-    return res
+    if( i >= 0){
+        let j = nums.length - 1
+        while( nums[j] <= nums[i]){
+            j--
+        }
+        swap(nums,i, j)
+
+    }
+    reverse(nums, i+1, nums.length -1)
 };
+function swap(nums, i , j){
+    [nums[i],nums[j]] = [nums[j], nums[i]]
+}
+function reverse(nums, l , r){
+    while( l < r){
+        [nums[l], nums[r]]=[nums[r], nums[l]]
+        l++
+        r--
+    }
+}

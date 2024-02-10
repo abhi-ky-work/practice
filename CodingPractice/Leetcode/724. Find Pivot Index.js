@@ -1,5 +1,6 @@
-/** 724. Find Pivot Index
-
+/** 
+ * 724. Find Pivot Index
+ * https://leetcode.com/problems/find-pivot-index/
  * @param {number[]} nums
  * @return {number}
  */
