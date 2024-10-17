@@ -1,0 +1,25 @@
+/**
+ * 128	Longest Consecutive Sequence
+ * https://leetcode.com/problems/longest-consecutive-sequence
+ * 
+ * @param {number[]} nums
+ * @return {number}
+ */
+ var longestConsecutive = function(nums) {
+    let len = nums.length 
+    let res = 0
+    if ( len == 0 ) return 0 
+    let set = new Set(nums)
+    for(let el of set){
+        let count = 0
+         if( ! set.has( el - 1 )){
+            let j = 1
+            while( set.has( el + j ) ){
+                count++
+                j++
+            }
+            if ( count > res ) res = count 
+         }
+    }
+    return res +1
+};
