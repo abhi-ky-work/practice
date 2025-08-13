@@ -1,0 +1,76 @@
+3Sum                                                                    - Graph               * https://youtu.be/mQeF6bN8hMk + 3Sum        
+Add and Search Word                                                     - Tree                * https://youtu.be/BTf05gs_8iU + Alien Dictionary        
+Alien Dictionary (Leetcode Premium)                                     - Linked List         * https://youtu.be/XVuQxVej6y8 + Best Time to Buy and Sell Stock        
+Best Time to Buy and Sell Stock                                         - Arrays              * https://youtu.be/1pkOgXD63yU + Binary Tree Level Order Traversal        
+Binary Tree Level Order Traversal                                       - Tree                * https://youtu.be/E36O5SWp-LE + Binary Tree Maximum Path Sum        
+Binary Tree Maximum Path Sum                                            - Tree                * https://youtu.be/u4JAi2JJhI8 + Climbing Stairs        
+Climbing Stairs                                                         - Arrays              * https://youtu.be/jzZsG8n2R9A + Clone Graph        
+Clone Graph                                                             - Interval            * https://youtu.be/FdzJmTCVyJU + Coin Change        
+Coin Change                                                             - Graph               * https://youtu.be/pV2kpPD66nE + Combination Sum        
+Combination Sum                                                         - Graph               * https://youtu.be/8f1XPm4WOUc + Construct Binary Tree from Preorder and Inorder Traversal        
+Construct Binary Tree from Preorder and Inorder Traversal               - Tree                * https://youtu.be/s6ATEkipzow + Container With Most Water        
+Container With Most Water                                               - Graph               * https://youtu.be/EgI5nU9etnU + Contains Duplicate        
+Contains Duplicate                                                      - Arrays              * https://youtu.be/3OamzN90kPg + Counting Bits        
+Counting Bits                                                           - Graph               * https://youtu.be/s-VkcjHqkGI + Course Schedule        
+Course Schedule                                                         - Linked List         * https://youtu.be/G0_I-ZF0S38 + Decode Ways        
+Decode Ways                                                             - Interval            * https://youtu.be/44H3cEC2fFM + Design Add and Search Words Data Structure        
+Detect Cycle in a Linked List                                           - Binary              * https://youtu.be/RyBM56RIWrM + Encode and Decode Strings        
+Encode and Decode Strings (Leetcode Premium)                            - Tree                * https://youtu.be/6ZnyEApgFYg + Find Median from Data Stream        
+Find Median from Data Stream                                            - Heap                * https://youtu.be/itmhHWaHupI + Find Minimum in Rotated Sorted Array        
+Find Minimum in Rotated Sorted Array                                    - Dynamic Programming * https://youtu.be/IlEsdxuD4lY + Graph Valid Tree        
+Graph Valid Tree (Leetcode Premium)                                     - Linked List         * https://youtu.be/S5bfdUTrKLM + Group Anagrams        
+Group Anagrams                                                          - Tree                * https://youtu.be/vRbbcKXCxOw + House Robber        
+House Robber                                                            - Arrays              * https://youtu.be/UuiTKBwPgAo + House Robber II        
+House Robber II                                                         - Interval            * https://youtu.be/A8NUOmlwOlM + Implement Trie (Prefix Tree)        
+Implement Trie (Prefix Tree)                                            - Tree                * https://youtu.be/oobqoCJlHA0 + Insert Interval        
+Insert Interval                                                         - Matrix              * https://youtu.be/BJnMZNwUk1M + Invert Binary Tree        
+Invert/Flip Binary Tree                                                 - Dynamic Programming * https://youtu.be/Sx9NNgInc3A + Jump Game        
+Jump Game                                                               - Interval            * https://youtu.be/PaJxqZVPhbg + Kth Smallest Element in a BST        
+Kth Smallest Element in a BST                                           - Tree                * https://youtu.be/gs2LMfuOR9k + Linked List Cycle        
+Longest Common Subsequence                                              - Graph               * https://youtu.be/6kTZYvNNyps + Longest Common Subsequence        
+Longest Consecutive Sequence                                            - Linked List         * https://youtu.be/q5a5OiGbT6Q + Longest Consecutive Sequence        
+Longest Increasing Subsequence                                          - Graph               * https://youtu.be/P6RZZMu_maU + Longest Increasing Subsequence        
+Longest Palindromic Substring                                           - Tree                * https://youtu.be/OnSn2XEQ4MY + Longest Palindromic Substring        
+Longest Repeating Character Replacement                                 - String              * https://youtu.be/B1k_sxOSgv8 + Longest Repeating Character Replacement        
+Longest Substring Without Repeating Characters                          - String              * https://youtu.be/4RACzI5-du8 + Longest Substring Without Repeating Characters        
+Lowest Common Ancestor of BST                                           - Dynamic Programming * https://youtu.be/73r3KWiEvyk + Lowest Common Ancestor of a Binary Search Tree        
+Maximum Depth of Binary Tree                                            - Dynamic Programming * https://youtu.be/cjWnW0hdF1Y + Lowest Common Ancestor of a Binary Tree        
+Maximum Product Subarray                                                - Dynamic Programming * https://youtu.be/6aEyTjOwlJU + Maximum Depth of Binary Tree        
+Maximum Subarray                                                        - Arrays              * https://youtu.be/bNvIQI2wAjk + Maximum Product Subarray        
+Meeting Rooms (Leetcode Premium)                                        - Binary              * https://youtu.be/gVUrDV4tZfY + Maximum Subarray        
+Meeting Rooms II (Leetcode Premium)                                     - String              * https://youtu.be/wiGpQwVHdE0 + Meeting Rooms        
+Merge Intervals                                                         - Matrix              * https://youtu.be/fMSJSS7eO1w + Meeting Rooms II        
+Merge K Sorted Lists                                                    - String              * https://youtu.be/gqXU1UyA8pk + Merge Intervals        
+Merge K Sorted Lists                                                    - Heap                * https://youtu.be/q5a5OiGbT6Q + Merge k Sorted Lists        
+Merge Two Sorted Lists                                                  - Binary              * https://youtu.be/WnPLSRLSANE + Merge Two Sorted Lists        
+Minimum Window Substring                                                - Tree                * https://youtu.be/hTM3phVI6YQ + Minimum Window Substring        
+Missing Number                                                          - Arrays              * https://youtu.be/nIVW4P8b1VA + Missing Number        
+Non-overlapping Intervals                                               - Matrix              * https://youtu.be/pfiQ_PS1g8E + Non-overlapping Intervals        
+Number of 1 Bits                                                        - Arrays              * https://youtu.be/lXVy6YWFcRM + Number of 1 Bits        
+Number of Connected Components in an Undirected Graph (Leetcode Premium)- Matrix              * https://youtu.be/T41rL0L3Pnw + Number of Connected Components in an Undirected Graph        
+Number of Islands                                                       - Linked List         * https://youtu.be/XIdigk956u0 + Number of Islands        
+Pacific Atlantic Water Flow                                             - Linked List         * https://youtu.be/gBTe7lFR3vc + Pacific Atlantic Water Flow        
+Palindromic Substrings                                                  - Tree                * https://youtu.be/Hr5cWUld4vU + Palindromic Substrings        
+Product of Array Except Self                                            - Dynamic Programming * https://youtu.be/rWAJCfYYOvM + Product of Array Except Self        
+Remove Nth Node From End Of List                                        - String              * https://youtu.be/jSto0O4AJbM + Remove Nth Node From End of List        
+Reorder List                                                            - String              * https://youtu.be/9UtInBqnCgA + Reorder List        
+Reverse a Linked List                                                   - Binary              * https://youtu.be/5Km3utixwZs + Reverse Bits        
+Reverse Bits                                                            - Arrays              * https://youtu.be/U8XENwh8Oy8 + Reverse Linked List        
+Rotate Image                                                            - String              * https://youtu.be/jJXJ16kPFWg + Rotate Image        
+Same Tree                                                               - Dynamic Programming * https://youtu.be/Ua0GhsJSlWM + Same Tree        
+Search in Rotated Sorted Array                                          - Dynamic Programming * https://youtu.be/Yan0cv2cLy8 + Search in Rotated Sorted Array        
+Serialize and Deserialize Binary Tree                                   - Tree                * https://youtu.be/ihj4IQGZ2zc + Serialize and Deserialize BST        
+Set Matrix Zeroes                                                       - String              * https://youtu.be/vzdNOK2oB2E + Set Matrix Zeroes        
+Spiral Matrix                                                           - String              * https://youtu.be/WTzjTskDFMg + Spiral Matrix        
+Subtree of Another Tree                                                 - Dynamic Programming * https://youtu.be/GBKI9VSKdGg + Subtree of Another Tree        
+Sum of Two Integers                                                     - Arrays              * https://youtu.be/5WZl3MMT0Eg + Sum of Two Integers        
+Top K Frequent Elements                                                 - Heap                * https://youtu.be/YPTqKIgVk-k + Top K Frequent Elements        
+Two Sum                                                                 - Arrays              * https://youtu.be/KLlXCFG5TnA + Two Sum        
+Unique Paths                                                            - Interval            * https://youtu.be/nONCGxWoUfM + Unique Paths        
+Valid Anagram                                                           - Binary              * https://youtu.be/UcoN6UjAI64 + Valid Anagram        
+Valid Palindrome                                                        - Dynamic Programming * https://youtu.be/H9bfqozjoqs + Valid Palindrome        
+Valid Parentheses                                                       - Dynamic Programming * https://youtu.be/Y0lT9Fck7qI + Valid Parentheses        
+Validate Binary Search Tree                                             - Tree                * https://youtu.be/5LUXSvjmGCw + Validate Binary Search Tree        
+Word Break Problem                                                      - Graph               * https://youtu.be/bXsUuownnoQ + Word Break        
+Word Search                                                             - String              * https://youtu.be/XYQecbcd6_c + Word Search        
+Word Search II                                                          - Tree                * https://youtu.be/asbcE9mZz_U + Word Search II        
