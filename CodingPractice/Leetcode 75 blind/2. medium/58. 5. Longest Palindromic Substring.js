@@ -66,3 +66,49 @@ function searchPalindrome(s, l, r){
     }
     return res
 }
+
+
+
+// class Solution {
+//     record Palindrome(String palindrome, int palindromeLength) {}
+
+//     public Palindrome searchPalindrome(String s, int l, int r){
+//         int strLength = 0;
+//         String palindrome = "";
+//         while(l >=0 && r < s.length() && s.charAt(l) == s.charAt(r)){
+//             if( r - l + 1 > strLength){
+//                 strLength = r - l + 1;
+//                 palindrome = s.substring(l, r+1);
+//             };
+//             l--;
+//             r++;
+//         };
+//         System.out.println("Interim Palindromes =>" + palindrome + " Length : " + strLength);
+
+//         return new Palindrome(palindrome, strLength);
+
+//     };
+
+
+//     public String longestPalindrome(String s) {
+//         String resPalindrome = "";
+//         int resPalindromeLength = 0;
+
+//         for(int i = 0 ; i < s.length() ; i++){
+//             Palindrome oddStrPal = searchPalindrome(s, i, i);
+//             Palindrome evenStrPal = searchPalindrome(s, i , i+1);
+
+//             if( oddStrPal.palindromeLength >= resPalindromeLength ){
+//                 resPalindrome = oddStrPal.palindrome;
+//                 resPalindromeLength = oddStrPal.palindromeLength;
+//             };
+//             if( evenStrPal.palindromeLength >= resPalindromeLength ){
+//                 resPalindrome = evenStrPal.palindrome;
+//                 resPalindromeLength = evenStrPal.palindromeLength;
+//             };
+//         };
+//         System.out.println("Anser Palindrome" + resPalindrome);
+//         return resPalindrome;
+
+//     }
+// }
